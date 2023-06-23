@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/easybank-landing-page-RnOyK7RDCe))
 - Live Site URL: [Easybank landing page](https://easybank-landpage.netlify.app/)
 
 ## My process
